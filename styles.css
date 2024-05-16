@@ -1,0 +1,14 @@
+body {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+h2 {
+  font-family: Lobster, Monospace;
+}
+
+.thick-green-border {
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
